@@ -265,5 +265,6 @@ if(e.getSource()==bclr){
 //MAIN METHOD where objects of MyCalc is instantaiated
  public static void main(String args[]){  
        new MyCalc();  
+       System.out.println("Welcome");
    }
 }  
