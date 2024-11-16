@@ -266,5 +266,6 @@ if(e.getSource()==bclr){
  public static void main(String args[]){  
        new MyCalc();  
        System.out.println("Welcome");
+       System.out.println("Welcometo my version 4");
    }
 }  
